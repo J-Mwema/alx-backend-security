@@ -1,0 +1,6 @@
+django
+django-ipgeolocation
+django-ratelimit
+celery
+redis
+requests
